@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 import csv, time
 from subprocess import *
 from air_module import *
