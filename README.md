@@ -3,6 +3,9 @@ clean air - sarcasm*
 **Запуск утилит входящих в стандартный пакет Kali**
 airmon-ng, aireplay-ng
 
+**How it's looks like?**
+https://youtu.be/YG_E9oWFI04
+
 **Тестилось на:**<br>
 Python 3.6.2 <br>
 Linux 4.9.0-kali3-amd64 #1 SMP Debian 4.9.18-1kali1 (2017-04-04) x86_64 GNU/Linux <br>
