@@ -11,7 +11,7 @@ Python 3.6.2 <br>
 Linux 4.9.0-kali3-amd64 #1 SMP Debian 4.9.18-1kali1 (2017-04-04) x86_64 GNU/Linux <br>
 Wireless Adapter: Alfa AWUS036NH, chip RT2870/RT3070<br>
 airmon-ng==Version 1.2-rc4<br>
-airmon-ng==Version 1.2-rc4<br>
+aireplay-ng==Version 1.2-rc4<br>
 
 **Цель:** 
 уточняется*
