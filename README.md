@@ -17,7 +17,7 @@ aireplay-ng==Version 1.2-rc4<br>
 Disconnects all clients from all AP, gives option don't disturb one AP *
 
 
-Please use <a href="https://translate.google.com/?hl=ru#view=home&op=translate&sl=ru&tl=en&text=не%20мешай">GT</a>
+Please use <a href="https://translate.google.com/?hl=ru#view=home&op=translate&sl=ru&tl=en&text=не%20мешай">GT</a> to read below instructrion :D <br>
 **Текущая логика:**
 1) Выбрать сетевой интерфейс, который надо перевести в режим мониторинга.
 1.1 Проверяются, убиваются процессы мешающие запуску режима мониторинга.
