@@ -1,21 +1,23 @@
 # clean_air
-clean air - sarcasm*
-**Запуск утилит входящих в стандартный пакет Kali**
+clean air - pirate your Air*
+**Automated launch of tools included in Kali**
 airmon-ng, aireplay-ng
 
 **How it's looks like?**
 https://youtu.be/YG_E9oWFI04
 
-**Тестилось на:**<br>
+**Tested on:**<br>
 Python 3.6.2 <br>
 Linux 4.9.0-kali3-amd64 #1 SMP Debian 4.9.18-1kali1 (2017-04-04) x86_64 GNU/Linux <br>
 Wireless Adapter: Alfa AWUS036NH, chip RT2870/RT3070<br>
 airmon-ng==Version 1.2-rc4<br>
 aireplay-ng==Version 1.2-rc4<br>
 
-**Цель:** 
-Разорвать авторизованых клиентов от точек доступа, оставить работающих клиентов только на 1 выбранной точке доступа*
+**Idea:** 
+Disconnects all clients from all AP, gives option don't disturb one AP *
 
+
+Please use <a href="https://translate.google.com/?hl=ru#view=home&op=translate&sl=ru&tl=en&text=не%20мешай">GT</a>
 **Текущая логика:**
 1) Выбрать сетевой интерфейс, который надо перевести в режим мониторинга.
 1.1 Проверяются, убиваются процессы мешающие запуску режима мониторинга.
